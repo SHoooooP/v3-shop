@@ -1,1 +1,1 @@
-worker: npm start.bat
+worker: run start.bat
