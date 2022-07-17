@@ -1,0 +1,13 @@
+# Modmail thread #1 with V3 SHOP#4391 (997686380668928020) started at 2022-07-16 02:18:24. All times are in UTC+0.
+
+[2022-07-16 02:18:24] [BOT] AGE DU COMTPE **8 minutes, 55 seconds**, ID **997686380668928020**
+NICKNAME **V3 SHOP**, REJOINT IL Y A **7 minutes, 36 seconds**
+────────────────
+[2022-07-16 02:18:24] [FROM USER] [V3 SHOP#4391] test
+[2022-07-16 02:18:25] [BOT TO USER] :flag_fr: Merci pour votre message, notre équipe vous répondra dans les plus brefs délais ! :flag_gb: Thanks for your message, our team will respond you as soon as possible !
+[2022-07-16 02:18:33] [COMMAND] [V3 SHOP#4391] !r test
+[2022-07-16 02:18:56] [TO USER] [V3 SHOP] V3 SHOP: test
+[2022-07-16 02:19:00] [TO USER] [V3 SHOP] (Anonymous) Moderator: test
+[2022-07-16 02:19:04] [COMMAND] [V3 SHOP#4391] !close
+[2022-07-16 02:19:05] [BOT TO USER] Your ticket has been closed
+[2022-07-16 02:19:05] [BOT] Closing thread...

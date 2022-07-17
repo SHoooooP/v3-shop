@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "MailBot",
+        "cwd": "./",
+        "script": "src/index.js"
+    }]
+}
